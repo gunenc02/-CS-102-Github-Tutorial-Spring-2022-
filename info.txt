@@ -1,2 +1,14 @@
 Bahadır Günenc - 22003672 - https://github.com/gunenc02
 
+commit 99358e7edaee0dcdae8fbd24e116bb435e9d459a (HEAD -> main, origin/main, origin/HEAD) 
+Merge: 72b5ee1 991d935
+Author: Bahadır Günenc <91343296+gunenc02@users.noreply.github.com>
+Date:   Wed Feb 9 19:27:09 2022 +0300
+
+    Merge pull request #1 from gunenc02/new_information
+    
+    new
+
+commit 991d935c878ba11e8fabd1b492e109275761ce24 (origin/new_information, new_information)
+Author: Bahadır <bahadir.gunenc@ug.bilkent.edu.tr>
+Date:   Wed Feb 9 19:25:17 2022 +0300
